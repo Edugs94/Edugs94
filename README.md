@@ -5,7 +5,7 @@
 
 A mechanical engineer who has swapped the **1/2-inch wrench** for a **modal text editor**.
 
-My profile has always been focused on analysis, working with large volumes of data. Previously, I my main objective was making a 35-person electromechanical maintenance team efficient; now I'm obsessed with ensuring none of my functions exceed **25 lines**.
+My profile has always been focused on analysis, working with large volumes of data. Previously, my main objective was making a 35-person electromechanical maintenance team efficient; now I'm obsessed with ensuring none of my functions exceed **25 lines**.
 
 I'm currently immersed in **42 Barcelona**, reorienting my career toward the world of **Data and Machine Learning**.
 
