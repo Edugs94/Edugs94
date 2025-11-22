@@ -55,9 +55,9 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 ## 🚀 Finished Projects from 42 Barcelona
 | Module | Project | Description | Languages |
 | :---: | :--- | :--- | :---: |
-| M0 | [Libft](https://github.com/Edugs94/Common_Core_42/tree/main/M0/Libft) | Reimplementation of C library functions. | C |
+| M2 | [Push Swap](https://github.com/Edugs94/Common_Core_42/tree/main/M2/Push_Swap) | Sorting algorithm with restricted operations between 2 stacks. | C |
 | M1 | [Born2beroot](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Born2beroot) | Basic configuration of a Debian virtual machine (VM). | Shell |
 | M1 | [Get_next_line](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Get_next_line) | Reading one line at time from a file descriptorhandling arbitrary buffer sizes | C |
 | M1 | [Printf](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Printf) | Reimplementation of the C library function `printf()`. | C |
-| M2 | [Push Swap](https://github.com/Edugs94/Common_Core_42/tree/main/M2/Push_Swap) | Sorting algorithm with restricted operations between 2 stacks. | C |
+| M0 | [Libft](https://github.com/Edugs94/Common_Core_42/tree/main/M0/Libft) | Reimplementation of C library functions. | C |
 ---
