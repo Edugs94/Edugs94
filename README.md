@@ -49,14 +49,14 @@
 <h2 align="left"><img width="67" height="50" alt="Screenshot from 2025-11-22 11-21-43" src="https://github.com/user-attachments/assets/6b1568f9-baeb-479e-a15a-7d055aad2876" />
  Find below the list of finished projects</h2>
  
-* [Libft (M0)](https://github.com/Edugs94/Common_Core_42/tree/main/M0/Libft)
+* [(M0) Libft](https://github.com/Edugs94/Common_Core_42/tree/main/M0/Libft)
 
-* [Born2beroot(M1)](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Born2beroot))
+* [(M1) Born2beroot](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Born2beroot)
 
-* [Get_next_line(M1)](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Get_next_line)
+* [(M1) Get_next_line](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Get_next_line)
 
-* [Printf (M1)](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Printf))
+* [(M1) Printf](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Printf))
 
-* [Push Swap (M2)](https://github.com/Edugs94/Common_Core_42/tree/main/M2/Push_Swap)
+* [(M2) Push Swap](https://github.com/Edugs94/Common_Core_42/tree/main/M2/Push_Swap)
 
 ---
