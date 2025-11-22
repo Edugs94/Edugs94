@@ -1,8 +1,13 @@
 ---
-<h2 align="left">👨‍💻 About Me</h2>
+## 🛠️ From Workshop 🔧 to Terminal 💻
 
-<p align="left">🔧 Mechanical Engineer| 📚 Currently studying software development on 42 Barcelona</p>
+### Hi, I'm Edu!
 
+A mechanical engineer who has swapped the **1/2-inch wrench** for a **modal text editor**.
+
+My profile has always been focused on analysis, working with large volumes of data. Previously, I my main objectie was making a 35-person electromechanical maintenance team efficient; now I'm obsessed with ensuring none of my functions exceed **25 lines**.
+
+I'm currently immersed in **42 Barcelona**, reorienting my career toward the world of **Data and Machine Learning**.
 
 ---
 
@@ -46,17 +51,13 @@
         </td>
     </tr>
 </table>
-<h2 align="left"><img width="67" height="50" alt="Screenshot from 2025-11-22 11-21-43" src="https://github.com/user-attachments/assets/6b1568f9-baeb-479e-a15a-7d055aad2876" />
- Find below the list of finished projects</h2>
- 
-* [(M0) Libft](https://github.com/Edugs94/Common_Core_42/tree/main/M0/Libft)
 
-* [(M1) Born2beroot](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Born2beroot)
-
-* [(M1) Get_next_line](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Get_next_line)
-
-* [(M1) Printf](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Printf))
-
-* [(M2) Push Swap](https://github.com/Edugs94/Common_Core_42/tree/main/M2/Push_Swap)
-
+## 🚀 Finished Projects from 42 Barcelona
+| Module | Project | Description | Languages |
+| :---: | :--- | :--- | :---: |
+| M0 | [Libft](https://github.com/Edugs94/Common_Core_42/tree/main/M0/Libft) | Reimplementation of C library functions. | C |
+| M1 | [Born2beroot](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Born2beroot) | Basic configuration of a Debian virtual machine (VM). | Shell |
+| M1 | [Get_next_line](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Get_next_line) | Reading one line at time from a file descriptorhandling arbitrary buffer sizes | C |
+| M1 | [Printf](https://github.com/Edugs94/Common_Core_42/tree/main/M1/Printf) | Reimplementation of the C library function `printf()`. | C |
+| M2 | [Push Swap](https://github.com/Edugs94/Common_Core_42/tree/main/M2/Push_Swap) | Sorting algorithm with restricted operations between 2 stacks. | C |
 ---
