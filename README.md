@@ -9,7 +9,7 @@ My profile has always been **focused on analysis**, working with large volumes o
 
 I'm currently immersed in **42 Barcelona**, reorienting my career toward the world of **Data and Machine Learning**.
 
-><i>[Article about my career transition and my campus](https://www.diariodemallorca.es/mallorca/2025/11/24/caso-eduardo-galindo-mallorquin-dejo-123967101.html)</i>
+>[_Spanish newspaper article about my career transition and my campus_](https://www.diariodemallorca.es/mallorca/2025/11/24/caso-eduardo-galindo-mallorquin-dejo-123967101.html)
 
 ---
 
