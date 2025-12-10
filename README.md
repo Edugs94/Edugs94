@@ -28,7 +28,7 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
             <img width="12" />
         </td>
       <td align="center">
-            <img src="https://github.com/user-attachments/assets/5ff954f8-fabd-47fc-a911-e035f9f250b9" height="50" alt="Linux logo" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" height="50" alt="Linux logo" />
             <img width="12" />
         </td>
       <td align="left">
