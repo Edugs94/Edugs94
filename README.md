@@ -55,6 +55,7 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 ## 🚀 Finished Projects from 42 Barcelona
 | Milestone | Project | Description | Languages | Score |
 | :---: | :--- | :--- | :---: | :---: |
+| M2 | [Codexion](https://github.com/Edugs94/Codexion) | A multithreaded simulation, orchestrating efficient resource arbitration | C | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
 | M2 | [A-Maze-ing](https://github.com/Edugs94/A-Maze-ing) | A configurable maze generation and solution tool | Python | ![Static Badge](https://img.shields.io/badge/125%2F100-brightgreen)|
 | M2 | [Python_Piscine](https://github.com/Edugs94/Python-Piscine) | Collection of 10 Modules to start OOP in Python | Python | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
 | M2 | [Push Swap](https://github.com/Edugs94/Push_Swap) | Sorting algorithm with restricted operations between 2 stacks | C | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
