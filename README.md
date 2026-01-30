@@ -21,14 +21,14 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
         <td align="center">Stats</td>
     </tr>
     <tr>
-        <td align="left">
+        <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="50" alt="C logo" />
             <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" height="50" alt="Python logo" />
         </td>
       <td align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" height="55" alt="Linux logo" />
         </td>
-      <td align="left">
+      <td align="center">
             <img src="https://github.com/user-attachments/assets/861a6331-b346-41f4-91e2-7952e7a8e241" height="50" alt="Vim logo" />
             <img width="12" />
             <img src="https://github.com/user-attachments/assets/e9d3f2e1-4e4e-4b68-9f7e-413bb9c0d78f" height="50" alt="VSCode logo" />
@@ -53,7 +53,7 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 | :---: | :--- | :--- | :---: | :---: |
 | M3 | [Codexion](https://github.com/Edugs94/Codexion) | A deadlock-free threading simulation with configurable scheduling algorithms | C | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
 | M2 | [A-Maze-ing](https://github.com/Edugs94/A-Maze-ing) | A configurable maze generation and solution tool | Python | ![Static Badge](https://img.shields.io/badge/125%2F100-brightgreen)|
-| M2 | [Python_Piscine](https://github.com/Edugs94/Python-Piscine) | Collection of 10 Modules to start OOP in Python | Python | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
+| M2 | [Python_Piscine](https://github.com/Edugs94/Python-Piscine) | Collection of 11 Modules to start OOP in Python | Python | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
 | M2 | [Push Swap](https://github.com/Edugs94/Push_Swap) | Sorting algorithm with restricted operations between 2 stacks | C | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen)|
 | M1 | [Born2beroot](https://github.com/Edugs94/Born2beroot) | Basic configuration of a Debian virtual machine (VM) | Shell | ![Static Badge](https://img.shields.io/badge/125%2F100-brightgreen)|
 | M1 | [Get_next_line](https://github.com/Edugs94//Get_next_line) | Reading one line at time from a file descriptor handling arbitrary buffer sizes | C | ![Static Badge](https://img.shields.io/badge/125%2F100-brightgreen)|
