@@ -26,8 +26,7 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
             <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" height="50" alt="Python logo" />
         </td>
       <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" height="55" alt="Linux logo" />
-        </td>
+            <img src="https://github.com/user-attachments/assets/07f03eb2-b793-4492-a347-d12c83dc9da5" height="50" alt="Linux logo" />
       <td align="center">
             <img src="https://github.com/user-attachments/assets/861a6331-b346-41f4-91e2-7952e7a8e241" height="50" alt="Vim logo" />
             <img width="12" />
