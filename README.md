@@ -53,15 +53,9 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 </div>
 
 <h2 align="center">📍 Where to find me </h2>
-
+<br>
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" height="20" alt="LinkedIn" /></a>
-  &nbsp;&nbsp; <a href="mailto:edugs94@gmail.com">
-    <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail-horizontal.svg" height="20" alt="Gmail" /></a>
-  &nbsp;&nbsp; <a href="https://www.codingame.com/profile/df6780991b953f569c349dcc5b2879b12175696" target="_blank">
-    <img src="https://github.com/user-attachments/assets/230a0e10-5b93-4913-a59e-afc0edb582b9" height="20" alt="CodinGame" />
-  </a>
-
+  <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:edugs94@gmail.com"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail-horizontal.svg" height="20" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.codingame.com/profile/df6780991b953f569c349dcc5b2879b12175696" target="_blank"><img src="https://img.shields.io/badge/_-grey?logo=codingame&logoSize=auto" height="20" alt="CodinGame" /></a>
 </div>
