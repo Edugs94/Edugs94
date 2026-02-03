@@ -53,7 +53,6 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 </div>
 
 <h2 align="center">📍 Where to find me </h2>
-<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:edugs94@gmail.com"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail-horizontal.svg" height="20" alt="Gmail" /></a>&nbsp;&nbsp;
