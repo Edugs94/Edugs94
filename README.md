@@ -16,20 +16,27 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 <div align="center">
   
   <h3>Languages</h3>
-  <img src="https://iconic-api.onrender.com/light/c" width="64" alt="C" />
+  <img src="https://iconic-api.onrender.com/dark/c" width="64" alt="C" />
   &nbsp;&nbsp;
-  <img src="https://iconic-api.onrender.com/light/python" width="64" alt="Python" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="64" alt="Python" />
 
   <h3>Operating System</h3>
-  <img src="https://iconic-api.onrender.com/light/linux" width="64" alt="Linux" />
+  <img src="https://iconic-api.onrender.com/dark/linux" width="64" alt="Linux" />
 
   <h3>Development Tools</h3>
-  <img src="https://iconic-api.onrender.com/light/vim" width="64" alt="Vim" />
+  <img src="https://iconic-api.onrender.com/dark/vim" width="64" alt="Vim" />
   &nbsp;&nbsp;
-  <img src="https://iconic-api.onrender.com/light/vscode" width="64" alt="VSCode" />
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="64" alt="VSCode" />
   &nbsp;&nbsp;
   <img src="https://iconic-api.onrender.com/light/git" width="64" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://iconic-api.onrender.com/dark/bash" width="64" alt="Bash" />
+  &nbsp;&nbsp;
+  <img src="https://iconic-api.onrender.com/dark/markdown" width="64" alt="Markdown" />
+  &nbsp;&nbsp;
 
+
+  
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=edugs94&label=Profile%20Views&style=social" alt="edugs94" />
 
