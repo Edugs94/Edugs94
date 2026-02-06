@@ -16,19 +16,22 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 <div align="center">
   
 <h3>Languages</h3>
-<img src="https://iconic-api.onrender.com/dark/c" width="64" alt="C" />
+<img src="https://iconic-api.onrender.com/dark/c" width="64" alt="C" title="C" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/python" width="64" alt="Python" />
+<img src="https://iconic-api.onrender.com/dark/python" width="64" alt="Python" title="Python"  />
 
 <h3>System & Tools</h3>
-<img src="https://iconic-api.onrender.com/dark/linux" width="64" alt="Linux" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64" alt="Linux" title="Linux" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/bash" width="64" alt="Bash" />
+<img src="https://iconic-api.onrender.com/dark/bash" width="64" alt="Bash" title="Bash" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/git" width="64" alt="Git" /> &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/vim" width="64" alt="Vim" />
+<img src="https://iconic-api.onrender.com/dark/git" width="64" alt="Git" title="Git" /> 
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/vscode" width="64" alt="VSCode" />
+<img src="https://iconic-api.onrender.com/dark/vim" width="64" alt="Vim" title="Vim" />
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/vscode" width="64" alt="VSCode" title="VSCode" />
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/pytest" width="64" alt="Pytest" title="Pytest" />
 
   
   <br><br>
