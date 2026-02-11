@@ -2,7 +2,7 @@
 ## 🔧 From Workshop to Terminal 💻
 
 ### Hi, I'm Edu!
-<img width="1666" height="532" alt="Eduardo_Galindo_banner" src="https://github.com/user-attachments/assets/5edce957-2833-4bd2-9d98-f8b8dac08db5" />
+<img width="1666" height="532" alt="Eduardo_Galindo_banner" src="https://github.com/user-attachments/assets/8e82484d-744c-46ac-b092-00afd6e4969f" />
 
 A mechanical engineer who has swapped the **1/2-inch wrench** for a **modal text editor**.
 
