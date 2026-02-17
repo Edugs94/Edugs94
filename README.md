@@ -45,6 +45,7 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 
 | Milestone | Project | Description | Tech | Score |
 | :---: | :--- | :--- | :---: | :---: |
+| **M3** | [**Fly-in**](https://github.com/Edugs94/Codexion) | Optimal multi-drone routing using Time-Expanded Graphs (TEG) and visualization | <img src="https://iconic-api.onrender.com/light/python" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
 | **M3** | [**Codexion**](https://github.com/Edugs94/Codexion) | A deadlock-free threading simulation with configurable scheduling algorithms | <img src="https://iconic-api.onrender.com/light/c" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
 | **M2** | [**A-Maze-ing**](https://github.com/Edugs94/A-Maze-ing) | A configurable maze generation and solution tool | <img src="https://iconic-api.onrender.com/light/python" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
 | **M2** | [**Python_Piscine**](https://github.com/Edugs94/Python-Piscine) | Collection of 11 Modules to start OOP in Python | <img src="https://iconic-api.onrender.com/light/python" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
