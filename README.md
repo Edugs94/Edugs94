@@ -32,11 +32,7 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 <img src="https://iconic-api.onrender.com/dark/vscode" width="64" alt="VSCode" title="VSCode" />
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/pytest" width="64" alt="Pytest" title="Pytest" />
-
-  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=edugs94&label=Profile%20Views&style=social" alt="edugs94" />
-
+<br>
 </div>
 
 <h2 align="center">🚀 Finished Projects from 42 Barcelona</h2>
