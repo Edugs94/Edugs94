@@ -43,7 +43,7 @@ in-demand skills, recommending courses for your **target roles** — powered by 
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white)
 
 <!-- Data & AI -->
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama_4-0467DF?style=flat-square&logo=meta&logoColor=white)
 
