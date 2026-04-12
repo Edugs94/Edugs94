@@ -7,7 +7,7 @@ A mechanical engineer who has swapped the **1/2-inch wrench** for a **modal text
 
 My profile has always been **focused on analysis**, working with large volumes of data. Previously, my main objective was making a 35-person electromechanical maintenance team efficient; now I apply that engineering mindset to **software architecture** and **algorithmic efficiency**, designing **modular systems** that are as robust as the machines I used to maintain.
 
-I'm currently immersed in **42 Barcelona**, reorienting my career toward the world of **Data and Machine Learning**.
+I'm currently immersed in **42 Barcelona**, reorienting my career toward the world of **AI, Data and Machine Learning**.
 
 ---
 
