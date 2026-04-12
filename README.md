@@ -14,6 +14,8 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
 <h2 align="center">Featured Project</h2>
 <div align="center">
 
+&nbsp;
+
 <a href="https://jobjective.net" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/jobjective_banner_dark.png" />
@@ -22,9 +24,12 @@ I'm currently immersed in **42 Barcelona**, reorienting my career toward the wor
   </picture>
 </a>
 
+&nbsp;
+
 **What should I study to land the tech job I want?**
 
-A tool that scrapes real job postings, generates interactive dashboards with the most in-demand skills, and recommends courses tailored to your target roles — powered by LLMs.
+A tool that scrapes **real job postings**, generates **interactive dashboards** the most<br />
+in-demand skills, recommending courses for your **target roles** — powered by **LLMs**.
 
 <!-- Backend -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,22 +56,22 @@ A tool that scrapes real job postings, generates interactive dashboards with the
 <div align="center">
 
 <h3>Languages</h3>
-<img src="https://iconic-api.onrender.com/dark/c" width="50" alt="C" title="C" />
+<img src="https://iconic-api.onrender.com/dark/c" width="58" alt="C" title="C" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/python" width="50" alt="Python" title="Python"  />
+<img src="https://iconic-api.onrender.com/dark/python" width="58" alt="Python" title="Python"  />
 
 <h3>System & Tools</h3>
-<img src="https://iconic-api.onrender.com/dark/linux" width="50" alt="Linux" title="Linux" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="58" alt="Linux" title="Linux" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/bash" width="50" alt="Bash" title="Bash" />
+<img src="https://iconic-api.onrender.com/dark/bash" width="58" alt="Bash" title="Bash" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/git" width="50" alt="Git" title="Git" />
+<img src="https://iconic-api.onrender.com/dark/git" width="58" alt="Git" title="Git" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/vim" width="50" alt="Vim" title="Vim" />
+<img src="https://iconic-api.onrender.com/dark/vim" width="58" alt="Vim" title="Vim" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/vscode" width="50" alt="VSCode" title="VSCode" />
+<img src="https://iconic-api.onrender.com/dark/vscode" width="58" alt="VSCode" title="VSCode" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/pytest" width="50" alt="Pytest" title="Pytest" />
+<img src="https://iconic-api.onrender.com/dark/pytest" width="58" alt="Pytest" title="Pytest" />
 <br>
 </div>
 
