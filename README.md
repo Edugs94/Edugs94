@@ -1,104 +1,106 @@
-## 🔧 From Workshop to Terminal 💻
+# Eduardo Galindo
 
-### Hi, I'm Edu!
-<img alt="Eduardo_Galindo_banner" src="./assets/banner_1.webp" />
+**AI Engineer · Python & C · Data & Systems**
 
-A mechanical engineer who has swapped the **1/2-inch wrench** for a **modal text editor**.
+Engineer with 6+ years driving data analysis, process automation, and predictive maintenance at scale. Now channeling that analytical foundation into **AI/ML** — building LLM pipelines, RAG systems, and data-driven tools with Python and C.
 
-My profile has always been **focused on analysis**, working with large volumes of data. Previously, my main objective was making a 35-person electromechanical maintenance team efficient; now I apply that engineering mindset to **software architecture** and **algorithmic efficiency**, designing **modular systems** that are as robust as the machines I used to maintain.
+Open to roles in **AI/ML Engineering**, **Backend / Data Engineering** and **Software Development**.
 
-I'm currently immersed in **42 Barcelona**, reorienting my career toward the world of **AI, Data and Machine Learning**.
-
----
-
-<h2 align="center">Featured Project</h2>
 <div align="center">
-
-&nbsp;
-
-<a href="https://jobjective.net" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/jobjective_banner_dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/jobjective_banner_light.png" />
-    <img src="./assets/jobjective_banner_light.png" alt="Jobjective.net" width="400" />
-  </picture>
-</a>
-
-&nbsp;
-
-**What should I study to land the tech job I want?**
-
-A tool that scrapes **real job postings**, generates **interactive dashboards** the most<br />
-in-demand skills, recommending courses for your **target roles** — powered by **LLMs**.
-
-<!-- Backend -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-506CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white)
-
-<!-- Data & AI -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_4-0467DF?style=flat-square&logo=meta&logoColor=white)
-
+  <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:edugs94@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-<h2 align="center">⚙️ Under the Hood</h2>
+## 📂 Selected Projects
+
+### [RAG Against the Machine](https://github.com/Edugs94/rag-against-the-machine) `🚧 In Progress`
+
+A full RAG system that ingests a large codebase, indexes it via BM25, and answers natural-language questions using Qwen LLM with retrieved context.
+
+- Intelligent chunking strategies to preserve code semantics across files
+- Hybrid retrieval with BM25 scoring and ChromaDB vector store
+- Recall@k evaluation pipeline to measure retrieval quality
+- End-to-end CLI interface from ingestion to answer generation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3A1772?style=flat-square&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+### [Call Me Maybe](https://github.com/Edugs94/call_me_maybe) — LLM Constrained Decoding
+
+Deterministic LLM pipeline that guarantees **100% valid JSON** function calls by masking model-generated logits at the token level. Enforces strict type-matching against JSON Schema and custom stopping criteria during generation — zero retries, zero parsing failures.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### [Jobjective](https://jobjective.net) — AI Job Market Analyzer
+
+Web application that scrapes real job postings, validates and deduplicates data via Pydantic models, synonym dictionaries and English normalization, then generates a personalized skill-gap dashboard. Live at [jobjective.net](https://jobjective.net) and on Play Store (Closed Beta).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_4-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+### [Fly-In](https://github.com/Edugs94/fly-in) — Multi-Drone Routing Optimizer
+
+Simulation engine that solves optimal multi-drone routing using **Time-Expanded Graphs**. Handles pathfinding, collision avoidance, and capacity constraints — implemented from scratch without external graph libraries.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+### [Pac-Man](https://github.com/mpadronrz/pac-man) — Arcade Game Engine
+
+Full recreation of the classic arcade game: MVC architecture, procedural maze generation, ghost AI with distinct behavioral personalities, and persistent highscores.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+### [Codexion](https://github.com/Edugs94/codexion) — Deadlock-Free Threading Simulation
+
+Low-level concurrency simulation in C with configurable scheduling algorithms. Focuses on mutex management, race condition prevention, and resource ordering to guarantee deadlock-free execution.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
 <h3>Languages</h3>
+<img src="https://iconic-api.onrender.com/dark/python" width="58" alt="Python" title="Python" />
+&nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/c" width="58" alt="C" title="C" />
 &nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/python" width="58" alt="Python" title="Python"  />
-
-<h3>System & Tools</h3>
-<img src="https://iconic-api.onrender.com/dark/linux" width="58" alt="Linux" title="Linux" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="58" alt="SQL" title="SQL / PostgreSQL" />
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/bash" width="58" alt="Bash" title="Bash" />
-&nbsp;&nbsp;
+
+<h3>AI / ML</h3>
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white)
+![BM25](https://img.shields.io/badge/BM25-4285F4?style=flat-square&logoColor=white)
+![Constrained Decoding](https://img.shields.io/badge/Constrained_Decoding-7B1FA2?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=flat-square&logoColor=white)
+
+<h3>Tools</h3>
 <img src="https://iconic-api.onrender.com/dark/git" width="58" alt="Git" title="Git" />
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/linux" width="58" alt="Linux" title="Linux" />
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/pytest" width="58" alt="Pytest" title="Pytest" />
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/vim" width="58" alt="Vim" title="Vim" />
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/vscode" width="58" alt="VSCode" title="VSCode" />
-&nbsp;&nbsp;
-<img src="https://iconic-api.onrender.com/dark/pytest" width="58" alt="Pytest" title="Pytest" />
-<br>
-</div>
 
-<h2 align="center">🚀 Finished Projects from 42 Barcelona</h2>
-
-<div align="center">
-
-| Milestone | Project | Description | Tech | Score |
-| :---: | :--- | :--- | :---: | :---: |
-| **M4** | [**Pac-Man**](https://github.com/mpadronrz/pac-man) | Recreation of the classic arcade game from scratch — MVC architecture, procedural maze generation, ghost AI with distinct personalities, and persistent highscores| <img src="https://iconic-api.onrender.com/light/python" width="24" /> <img src="https://iconic-api.onrender.com/light/pytest" width="24" />| ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M4** | **NetPractice** | Network administration and infrastructure project — configuring and troubleshooting TCP/IP addressing, subnet masks, and routing logic across network topologies | <img src="https://iconic-api.onrender.com/light/linux" width="24" /> <img src="https://iconic-api.onrender.com/light/bash" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M3** | [**Call me maybe**](https://github.com/Edugs94/call_me_maybe) | Constrained decoding engine that guarantees 100% valid JSON LLM function calls by masking the model-generated logits | <img src="https://iconic-api.onrender.com/light/python" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M3** | [**Fly-in**](https://github.com/Edugs94/fly-in) | Optimal multi-drone routing using Time-Expanded Graphs (TEG) and visualization | <img src="https://iconic-api.onrender.com/light/python" width="24" /> <img src="https://iconic-api.onrender.com/light/pytest" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
-| **M3** | [**Codexion**](https://github.com/Edugs94/codexion) | A deadlock-free threading simulation with configurable scheduling algorithms | <img src="https://iconic-api.onrender.com/light/c" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M2** | [**A-Maze-ing**](https://github.com/Edugs94/a-maze-ing) | A configurable maze generation and solution tool | <img src="https://iconic-api.onrender.com/light/python" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
-| **M2** | [**Python_Piscine**](https://github.com/Edugs94/python-piscine) | Collection of 11 Modules to start OOP in Python | <img src="https://iconic-api.onrender.com/light/python" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M2** | [**Push Swap**](https://github.com/Edugs94/push_swap) | Sorting algorithm with restricted operations between 2 stacks | <img src="https://iconic-api.onrender.com/light/c" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M1** | **Born2beroot** | Basic configuration of a Debian virtual machine (VM) | <img src="https://iconic-api.onrender.com/light/bash" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
-| **M1** | [**Get_next_line**](https://github.com/Edugs94/get_next_line) | Reading one line at time from a file descriptor handling arbitrary buffer sizes | <img src="https://iconic-api.onrender.com/light/c" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
-| **M1** | [**Printf**](https://github.com/Edugs94/printf) | Reimplementation of the C library function `printf()` | <img src="https://iconic-api.onrender.com/light/c" width="24" /> | ![](https://img.shields.io/badge/100%2F100-2EA043?style=flat-square) |
-| **M0** | [**Libft**](https://github.com/Edugs94/libft) | Reimplementation of basic C library functions | <img src="https://iconic-api.onrender.com/light/c" width="24" /> | ![](https://img.shields.io/badge/125%2F100-2EA043?style=flat-square) |
-
-</div>
-
-<h2 align="center">📍 Where to find me </h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:edugs94@gmail.com"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail-horizontal.svg" height="20" alt="Gmail" /></a>&nbsp;&nbsp;
-  <a href="https://www.codingame.com/profile/df6780991b953f569c349dcc5b2879b12175696" target="_blank"><img src="https://img.shields.io/badge/_-grey?logo=codingame&logoSize=auto" height="20" alt="CodinGame" /></a>
 </div>
