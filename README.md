@@ -20,7 +20,7 @@ Open to roles in **AI/ML Engineering**, **Backend / Data Engineering** and **Sof
 A full RAG system that ingests a large codebase, indexes it via BM25, and answers natural-language questions using Qwen LLM with retrieved context.
 
 - Intelligent chunking strategies to preserve code semantics across files
-- Hybrid retrieval with BM25 scoring and ChromaDB vector store
+- Hybrid retrieval with BM25 scoring
 - Recall@k evaluation pipeline to measure retrieval quality
 - End-to-end CLI interface from ingestion to answer generation
 
