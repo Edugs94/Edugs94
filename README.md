@@ -17,16 +17,17 @@ Open to roles in **AI/ML Engineering**, **Backend / Data Engineering** and **Sof
 
 ### [RAG Against the Machine](https://github.com/Edugs94/rag-against-the-machine) `🚧 In Progress`
 
-A full RAG system that ingests a large codebase, indexes it via BM25, and answers natural-language questions using Qwen LLM with retrieved context.
+An end-to-end RAG system designed to interact with large codebases, combining sparse and dense retrieval to provide highly accurate, natural-language answers using the Qwen LLM.
 
-- Intelligent chunking strategies to preserve code semantics across files
-- Hybrid retrieval with BM25 scoring
-- Recall@k evaluation pipeline to measure retrieval quality
-- End-to-end CLI interface from ingestion to answer generation
+- **Semantic Code Chunking:** Intelligent, context-aware chunking strategies to preserve code logic across multiple files.
+- **Hybrid Search Architecture:** Fuses BM25 lexical scoring with ChromaDB vector embeddings via Reciprocal Rank Fusion (RRF).
+- **Evaluation Pipeline:** Built-in Recall@k evaluation suite to benchmark and optimize retrieval quality.
+- **End-to-End CLI:** Robust command-line interface managing everything from data ingestion to answer generation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### [Call Me Maybe](https://github.com/Edugs94/call_me_maybe) — LLM Constrained Decoding
 
