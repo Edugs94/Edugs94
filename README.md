@@ -15,7 +15,7 @@ Open to roles in **AI/ML Engineering**, **Backend / Data Engineering** and **Sof
 
 ## 📂 Selected Projects
 
-### [RAG Against the Machine](https://github.com/Edugs94/rag-against-the-machine)
+### [RAG Against the Machine](https://github.com/Edugs94/rag-against-the-machine) - Hybrid Semantic Code Retrieval
 
 An end-to-end RAG system designed to interact with large codebases, combining sparse and dense retrieval to provide highly accurate, natural-language answers using the Qwen LLM.
 
