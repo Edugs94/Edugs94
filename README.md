@@ -38,7 +38,7 @@ Deterministic LLM pipeline that guarantees **100% valid JSON function calls** by
 
 ### [Jobjective](https://jobjective.net) — AI Job Market Analyzer
 
-Web application that scrapes real job postings, validates and deduplicates data via Pydantic models, synonym dictionaries and English normalization, then generates a personalized skill-gap dashboard. Live at [jobjective.net](https://jobjective.net) and on Play Store (Closed Beta).
+Web application that scrapes real job postings, validates and deduplicates data via Pydantic models, synonym dictionaries and English normalization, then generates a personalized skill-gap dashboard. Live at [jobjective.net](https://jobjective.net) and on [Play Store](https://play.google.com/store/apps/details?id=net.jobjective.app).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
