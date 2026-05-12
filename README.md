@@ -4,7 +4,7 @@
 
 Engineer with 6+ years driving data analysis, process automation, and predictive maintenance at scale. Now channeling that analytical foundation into **AI/ML** — building LLM pipelines, RAG systems, and data-driven tools with Python and C.
 
-Open to roles in **AI/ML Engineering**, **Backend / Data Engineering** and **Software Development**.
+Open to roles in **AI/ML Engineering** and **Data Science**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
