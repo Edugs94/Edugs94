@@ -1,10 +1,10 @@
 # Eduardo Galindo
 
-**AI Engineer · Python & C · Data & Systems**
+**AI Engineer · LLM Systems · Python & C**
 
-Engineer with 6+ years driving data analysis, process automation, and predictive maintenance at scale. Now channeling that analytical foundation into **AI/ML** — building LLM pipelines, RAG systems, and data-driven tools with Python and C.
+I build LLM systems that run in production — agentic loops, RAG pipelines, and the infrastructure that keeps them safe, observable and predictable under failure.
 
-Open to roles in **AI/ML Engineering** and **Data Science**.
+Working as **AI/ML Engineer**, working on FastAPI services deployed on Cloud, with evaluation harnesses and deterministic validation gates around every model call. Before AI, six years leading industrial maintenance and reliability at scale, where I learned that a system is only as good as its behaviour on its worst day.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-galindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -14,6 +14,22 @@ Open to roles in **AI/ML Engineering** and **Data Science**.
 ---
 
 ## 📂 Selected Projects
+
+### [Agent Smith](https://github.com/Edugs94/agent_smith) — Sandboxed Code Agent with MCP Tooling
+ 
+An agentic framework that solves programming challenges autonomously through a **Thought → Code → Observation** loop: the LLM writes Python, the code executes, and its output becomes the next observation. Model-generated code is treated as untrusted input — statically analysed before execution and confined to a privilege-dropped child process with no network access.
+ 
+- **Static analysis before execution:** every snippet passes Python's lexer, parser and AST, plus a custom semantic pass — import allowlist, no `eval`/`exec`, no dunder escapes.
+- **Privilege-dropping sandbox:** code runs in a forked child that drops its own privileges immediately, so the parent keeps network access for the API while the child cannot open a socket. Restricted builtins, path-checked `open()`, and `RLIMIT_AS` capping memory at 512 MB.
+- **Failure-proof observability:** the parent owns the clock and kills the child on deadline, but stdout is line-buffered into capture files — so the model still receives everything the code printed after a timeout, crash or segfault. Never a bare "failed".
+- **MCP client and servers, written from scratch:** tools are served over the protocol and discovered at connection time, so swapping the server swaps what the model can do. Both stdio and streamable HTTP transports, routing every call out of a locked-down child process and into a Docker container.
+- **Benchmarked** on MBPP and SWE-bench Verified, with per-instance container lifecycle management.
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1F2937?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ### [RAG Against the Machine](https://github.com/Edugs94/rag-against-the-machine) - Hybrid Search & Repository-Scale RAG
 
@@ -87,6 +103,7 @@ Low-level concurrency simulation in C with configurable scheduling algorithms. F
 
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-1F2937?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white)
 ![BM25](https://img.shields.io/badge/BM25-4285F4?style=flat-square&logoColor=white)
 ![Constrained Decoding](https://img.shields.io/badge/Constrained_Decoding-7B1FA2?style=flat-square&logoColor=white)
@@ -96,6 +113,8 @@ Low-level concurrency simulation in C with configurable scheduling algorithms. F
 <img src="https://iconic-api.onrender.com/dark/git" width="58" alt="Git" title="Git" />
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/linux" width="58" alt="Linux" title="Linux" />
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/docker" width="58" alt="Docker" title="Docker" />
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/pytest" width="58" alt="Pytest" title="Pytest" />
 &nbsp;&nbsp;
